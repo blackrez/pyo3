@@ -154,6 +154,7 @@ about this topic.
  * [python-ext-wasm](https://github.com/wasmerio/python-ext-wasm) _Python library to run WebAssembly binaries_
  * [mocpy](https://github.com/cds-astro/mocpy) _Astronomical Python library offering data structures for describing any arbitrary coverage regions on the unit sphere_
  * [tokenizers](https://github.com/huggingface/tokenizers/tree/master/bindings/python) _Python bindings to the Hugging Face tokenizers (NLP) written in Rust_
+ * [geohashrs] (https://github.com/blackrez/geohashrs) _Python bindings to geohash rust library
 
 ## License
 
